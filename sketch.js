@@ -9,7 +9,7 @@ function preload (){
 	song = loadSound('Kobe_Bryant_The_Leader.mp3');
 	img[0] = loadImage("KOBE4.jpg");
 	img[1] = loadImage("KOBE3.jpg")
-	img[2] = loadImage("KOBE5.jpg")
+	img[2] = loadImage("KOBE5.jpeg")
 	img[3] = loadImage("KOBE.jpg")
 }
 function setup() {
